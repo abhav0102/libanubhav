@@ -1,0 +1,10 @@
+[package]
+name = "libanubhav"
+version = "0.2.1"
+edition = "2021"
+authors = ["Anubhav Bhagirath"]
+description = "A simple library management system written in Rust."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/abhav0102/libanubhav/"
+
+[dependencies]
